@@ -1,6 +1,4 @@
-7# Mi-primer-ventana
-
-    package Java.UIsmd;
+# Mi-primer-ventana
 
     import javax.swing.*;      
     import java.awt.*;
