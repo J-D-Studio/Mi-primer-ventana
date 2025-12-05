@@ -1,11 +1,11 @@
 # Mi-primer-ventana
 
-package Java.UIsmd;
+    package Java.UIsmd;
 
-import javax.swing.*;
-import java.awt.*;
+    import javax.swing.*;      
+    import java.awt.*;
 
-public class SistemaCompleto extends JFrame {
+    public class SistemaCompleto extends JFrame {
     
     private final CardLayout cardLayout;
     private final JPanel cardsPanel;
