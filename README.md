@@ -1,4 +1,4 @@
-# Mi-primer-ventana
+7# Mi-primer-ventana
 
     package Java.UIsmd;
 
@@ -359,4 +359,4 @@
             SistemaCompleto frame = new SistemaCompleto();
         });
     }
-}
+    }
